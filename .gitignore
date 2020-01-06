@@ -1,0 +1,10 @@
+# IDE
+.idea/
+
+# инструменты
+package-lock.json
+
+# выкачиваемое и автособираемое
+node_modules/*
+node_modules
+coverage/Icov-report/*
